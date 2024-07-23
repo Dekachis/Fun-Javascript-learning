@@ -1,0 +1,23 @@
+.container {
+    width:100%;
+    height: 800px;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.aniPic {
+    width: 900px;
+    height: 700px;
+    border-radius: 15px;
+}
+
+.aniName {
+    color:white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    letter-spacing: 7px;
+}
